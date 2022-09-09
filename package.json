@@ -17,5 +17,9 @@
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoPB14/alura-node"
   }
 }
